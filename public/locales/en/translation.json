@@ -1,0 +1,20 @@
+{
+  "localization_testing": "english",
+  "Welcome_to_React": "Welcome to React",
+  "Album": "Album layout",
+  "Album_Content": "Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not too short so folks don't simply skip over it entirely.",
+  "Button1": "Main call to action",
+  "Button2": "Secondary action",
+  "Card_Head": "Heading",
+  "Card_Content": "This is a media card. You can use this section to describe the content.",
+  "View": "View",
+  "Edit": "Edit",
+  "Footer": "Footer",
+  "Footer_Content": "Something here to give the footer a purpose!",
+  "Home_Top_Head": "Title of a longer featured blog post",
+  "Home_Top_Content": "Multiple lines of text that form the lede, informing new readers quickly and efficiently about what's most interesting in this post's contents.",
+  "ReadMore": "Continue reading…",
+  "PostHead1": "Featured post",
+  "PostBody1": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+  "PostHead2": "Post Title"
+}

@@ -1,0 +1,20 @@
+{
+  "localization_testing": "turkish",
+  "Welcome_to_React": "React'e Hoş Geldiniz",
+  "Album": "Albüm düzeni",
+  "Album_Content": "Aşağıdaki koleksiyonla ilgili kısa ve yönlendirici bir şeyler: içeriği, yaratıcısı vb. Kısa ve hoş olsun, ancak çok kısa olmasın ki insanlar onu tamamen atlamasınlar.",
+  "Button1": "Ana harekete geçirici mesaj",
+  "Button2": "İkincil eylem",
+  "Card_Head": "Başlık",
+  "Card_Content": "Bu bir medya kartıdır. İçeriği açıklamak için bu bölümü kullanabilirsiniz.",
+  "View": "Görüş",
+  "Edit": "Düzenlemek",
+  "Footer": "Altbilgi",
+  "Footer_Content": "Altbilgiye bir amaç verecek bir şey var!",
+  "Home_Top_Head": "Daha uzun öne çıkan bir blog yazısının başlığı",
+  "Home_Top_Content": "Yeni okuyucuları bu gönderinin içeriğindeki en ilginç şeyler hakkında hızlı ve etkili bir şekilde bilgilendiren, LED'i oluşturan birden fazla satırlık metin.",
+  "ReadMore": "Okumaya devam et…",
+  "PostHead1": "Öne çıkan gönderi",
+  "PostBody1": "Bu, ek içeriğe doğal bir giriş olarak aşağıda destekleyici metnin yer aldığı daha geniş bir karttır.",
+  "PostHead2": "Yazı başlığı"
+}
